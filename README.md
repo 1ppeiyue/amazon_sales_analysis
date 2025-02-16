@@ -75,6 +75,7 @@ Insights from our price analysis:
 ## 📊 Key Visualizations
 
 in amazon_sales_analysis.twbx
+
 in EDA.sql
 
 ## 🚀 Getting Started
