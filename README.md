@@ -74,23 +74,8 @@ Insights from our price analysis:
 
 ## 📊 Key Visualizations
 
-### 1. Category Performance Analysis
-<div align="center">
-  <img src="visualizations/category_ratings.png" width="800">
-  <p><em>Average ratings across different product categories showing category performance</em></p>
-</div>
-
-### 2. Price-Sales Analysis
-<div align="center">
-  <img src="visualizations/price_sales_relationship.png" width="800">
-  <p><em>Relationship between price points and sales volume</em></p>
-</div>
-
-### 3. Customer Sentiment Analysis
-<div align="center">
-  <img src="visualizations/sentiment_distribution.png" width="800">
-  <p><em>Distribution of customer sentiment based on review analysis</em></p>
-</div>
+in amazon_sales_analysis.twbx
+in EDA.sql
 
 ## 🚀 Getting Started
 1. Clone repository
